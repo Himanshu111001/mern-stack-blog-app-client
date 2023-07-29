@@ -26,9 +26,9 @@ const About = () => {
         <Box>
             <Banner/>
             <Wrapper>
-                <Typography variant="h3">Code for Interview</Typography>
+                <Typography variant="h3">Himanshu Shishodia</Typography>
                 <Text variant="h5">I'm a Software Engineer based in India. 
-                    I've built websites, desktop applications and corporate software.<br />
+                    I've built websites and web applications.<br />
                     If you are interested, you can view some of my favorite projects here
                     <Box component="span" style={{ marginLeft: 5 }}>
                         <Link href="https://github.com/Himanshu111001?tab=repositories" color="inherit" target="_blank"><GitHub /></Link>
