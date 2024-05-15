@@ -68,7 +68,7 @@ const signupInitialValues = {
 
 const Login = ({ isUserAuthenticated })=>{
 
-    const imageURL = 'https://www.sesta.it/wp-content/uploads/2021/03/logo-blog-sesta-trasparente.png';
+    const imageURL = 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Blogger_icon.svg/1200px-Blogger_icon.svg.png';
 
     const [account, toggleAccount] = useState('login')
     const [login, setLogin] = useState(loginInitialValues)
